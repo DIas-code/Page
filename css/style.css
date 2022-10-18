@@ -1,0 +1,18 @@
+body{
+}
+#a1{
+    text-align: center;
+
+}
+#img1{
+    float: left;
+    height: 50vh;
+}
+#d1{
+    float: left;
+    margin-left: 2%;
+    width: 40%;
+}
+.logo{
+    width: 15%;
+}
